@@ -8,7 +8,7 @@
          "manager",
          "Scout"
       ],   
-   "repository": "https://github.com/ruined-soul/Scout",
+   "repository": "https://github.com/ruined-soul/ScoutX",
    "addons": [
       {
          "options": {
@@ -180,5 +180,5 @@
       "scout"
    ],
    "name": "scout",
-   "repository": "https://github.com/ruined-soul/scout"
+   "repository": "https://github.com/ruined-soul/scoutx"
 }
